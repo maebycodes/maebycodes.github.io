@@ -1,0 +1,45 @@
+body {
+    font-family: Georgia, serif;
+    background-color: #ffc72e;
+    color: #434343;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 600px;
+    padding: 20px;
+}
+
+nav {
+    margin: 20px 0 40px;
+    text-align: center;
+}
+
+nav a {
+    margin: 0 15px;
+    padding: 5px;
+}
+
+nav a.current {
+    border-bottom: 2px solid #382eff;
+}
+
+a {
+    color: #382eff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ffffff;
+}
+
+a:active {
+    color: #0003c9;
+}
+
+@media (max-width: 600px) {
+    .container {
+        margin: 0;
+        max-width: 100%;
+    }
+} 
