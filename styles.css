@@ -46,11 +46,11 @@ nav {
 }
 
 nav a.current {
-    border-bottom: 2px solid #382eff;
+    border-bottom: 2px solid #ff2e53;
 }
 
 a {
-    color: #382eff;
+    color: #ff2e53;
     text-decoration: none;
 }
 
@@ -59,7 +59,7 @@ a:hover {
 }
 
 a:active {
-    color: #0003c9;
+    color: #ff6e87;
 }
 
 @media (max-width: 600px) {
