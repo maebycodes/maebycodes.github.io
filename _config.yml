@@ -28,7 +28,7 @@ twitter_username: not_a_hot_girl
 github_username: maebycodes
 
 # Build settings
-theme: minima
+theme: jekyll-text-theme
 plugins:
   []
 
