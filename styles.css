@@ -1,13 +1,14 @@
 body {
-    font-family: Georgia, serif;
+    font-family: Verdana, sans-serif;
     background-color: #ffc72e;
     color: #434343;
 }
 
 .container {
-    margin: 0 auto;
+    margin: 0 auto 200px;
     max-width: 600px;
     padding: 20px;
+    text-align: justify;
 }
 
 nav {
@@ -16,6 +17,7 @@ nav {
     flex-direction: column;
     align-items: center;
     gap: 30px;
+    font-family: Georgia, serif;
 }
 
 .site-nav a {
@@ -60,6 +62,13 @@ a:hover {
 
 a:active {
     color: #ff6e87;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px 0;
 }
 
 @media (max-width: 600px) {

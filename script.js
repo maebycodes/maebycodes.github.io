@@ -7,4 +7,4 @@ function setRandomBackgroundColor() {
 }
 
 // Run when page loads
-document.addEventListener('DOMContentLoaded', setRandomBackgroundColor); 
+// document.addEventListener('DOMContentLoaded', setRandomBackgroundColor); 
