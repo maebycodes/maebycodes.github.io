@@ -60,8 +60,16 @@ a:hover {
     color: #ffffff;
 }
 
+a:hover strong {
+    color: #ffffff;
+}
+
 a:active {
     color: #ff6e87;
+}
+
+a strong {
+    color: #cc0025;
 }
 
 img {
