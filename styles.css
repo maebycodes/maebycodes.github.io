@@ -76,6 +76,10 @@ a strong {
     color: #cc0025;
 }
 
+ul {
+    padding-inline-start: 1em;
+}
+
 img {
     max-width: 100%;
     height: auto;
