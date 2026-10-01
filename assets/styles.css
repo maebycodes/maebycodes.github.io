@@ -17,6 +17,12 @@ div.left {
     text-align: left;
 }
 
+div.centered-left {
+    width: fit-content;
+    margin-inline: auto;
+    text-align: left;
+}
+
 h4 {
     margin-bottom: 0.5em;
 }
